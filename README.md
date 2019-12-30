@@ -10,6 +10,7 @@ Devido a isso, foi proposto a criação de um sistema WEB capaz de efetuar:
 - Controle de débitos.
 - Controle de renegociações.
 - Controle de fiscalizações.
+
 Para visualizar todas as informações bem como os requisitos sobre a proposta de desenvolvimento de software, visualize o arquivo "Edital Pregão 9.pdf"
 
 ### Documentos criados:
@@ -21,6 +22,7 @@ Para visualizar todas as informações bem como os requisitos sobre a proposta d
 - Diagrama de Rede
 - Caminho Crítico
 - Cronograma
+
 Obs: Os documentos "Cronograma" e "Caminho Crítico" estão contidos no arquivo .mpp (COFECON_GESTOR_WEB.mpp) gerado pelo MSProject.
 
 ### Integrantes do Grupo:
