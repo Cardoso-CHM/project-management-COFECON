@@ -26,5 +26,5 @@ Para visualizar todas as informações bem como os requisitos sobre a proposta d
 Obs: Os documentos "Cronograma" e "Caminho Crítico" estão contidos no arquivo .mpp (COFECON_GESTOR_WEB.mpp) gerado pelo MSProject.
 
 ### Integrantes do Grupo:
-- César Cardoso [@Cardoso-CHM](github.com/Cardoso-CHM)
-- Joao Vitor [@JoaoVitorPereiraUFU](github.com/JoaoVitorPereiraUFU)
+- César Cardoso [@Cardoso-CHM](https://github.com/Cardoso-CHM)
+- Joao Vitor [@JoaoVitorPereiraUFU](https://github.com/JoaoVitorPereiraUFU)
