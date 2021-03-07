@@ -27,4 +27,4 @@ Obs: Os documentos "Cronograma" e "Caminho Crítico" estão contidos no arquivo 
 
 ### Integrantes do Grupo:
 - César Cardoso [@Cardoso-CHM](https://github.com/Cardoso-CHM)
-- Joao Vitor [@JoaoVitorPereiraUFU](https://github.com/JoaoVitorPereiraUFU)
+- Joao Vitor [@joaovtpereira](https://github.com/joaovtpereira)
