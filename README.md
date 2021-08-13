@@ -1,6 +1,9 @@
 # cofecon-gestor-web
 Repositório referente a documentação para a gerência de um projeto em T.I.
 
+# Tecnologias Utilizadas
+- MS Project
+
 O edital escolhido através do site [comprasnet](http://comprasnet.gov.br/acesso.asp?url=/ConsultaLicitacoes/ConsLicitacao_texto.asp) diz respeito ao Conselho Federal de Economia(COFECON),  que é responsável pela fiscalização profissional dos 230 mil economistas brasileiros.
 
 A COFECON deseja efetuar a troca do antigo sistema ERP(Sistema integrado de gestão empresarial) por um mais atualizado e condizente com as realidades atuais.
